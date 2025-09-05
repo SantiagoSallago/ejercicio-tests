@@ -12,7 +12,7 @@ import { AppService } from './app.service';
       host: 'localhost',
       port: 3306,
       username: 'root',
-      password: 'admin',
+      password: 'Sallago2002',
       database: 'notebooks',
       entities: [__dirname + '/**/*.entity{.ts,.js}'],
       synchronize: true, 
